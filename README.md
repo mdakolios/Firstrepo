@@ -1,5 +1,6 @@
 # Firstrepo
 # I am changing this first repo.
+I love datascience!
+John Zhang 
 
-
-## Pete was here!
+## JZ BRUH!
